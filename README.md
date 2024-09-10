@@ -1,16 +1,14 @@
-# practica_1
+# PKS_3_1
 
-A new Flutter project.
+ Мигель Демьян Григорьевич Группа ЭФБО-03-22
 
-## Getting Started
+ ПКС 5 семестр
 
-This project is a starting point for a Flutter application.
+## Практическая работа №1
 
-A few resources to get you started if this is your first Flutter project:
+**Запуск на эмуляторе**
+![изображение](https://github.com/user-attachments/assets/5a7dc3c0-cf85-4515-8436-50eff35f19c4)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+==**Запуск в браузере**==
+![изображение](https://github.com/user-attachments/assets/79638fcc-6b5e-4cbf-a64c-44f8b3c33e99)
