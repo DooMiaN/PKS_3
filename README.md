@@ -1,16 +1,13 @@
-# hw_pr2_pks3
+# prac-2
 
-Practical Homework 2 for PKS
+Practical #2. Homework for PKS (Программирование корпоративных систем) 5 semester
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Student:
+ЭФБО-03-22
+Мигель Демьян Григорьевич
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![изображение](https://github.com/user-attachments/assets/4fbc6635-9017-47de-b5da-41946a5fb5f1)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
