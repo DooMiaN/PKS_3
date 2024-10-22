@@ -1,14 +1,17 @@
-# PKS_3_1
+# prac-1
 
+Practical #1. For PKS (Программирования корпоративных систем) 5 semester
+
+Student:
  Мигель Демьян Григорьевич Группа ЭФБО-03-22
 
- ПКС 5 семестр
 
-## Практическая работа №1
+## Screenshot #1
 
-**Запуск на эмуляторе**
+**In android simulator**
 ![изображение](https://github.com/user-attachments/assets/5a7dc3c0-cf85-4515-8436-50eff35f19c4)
 
+## Screenshot #2
 
-**Запуск в браузере**
+**Inside of browser**
 ![изображение](https://github.com/user-attachments/assets/79638fcc-6b5e-4cbf-a64c-44f8b3c33e99)
